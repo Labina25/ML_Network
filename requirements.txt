@@ -4,6 +4,7 @@ numpy
 pymongo
 certifi
 pymongo[srv]
+# mongodb
 scikit-learn
 mlflow
 pyaml
@@ -11,3 +12,5 @@ dagshub
 fastapi
 uvicorn
 python-multipart
+
+# -e .
